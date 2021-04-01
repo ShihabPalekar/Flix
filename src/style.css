@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    color: white;
+    padding: 0 12px;
+}
+
+.movie-cards-container{
+    display: inline-flex;
+
+}
+
+.movie-card{
+    margin: 0px 10px
+}
+
+.movies-h1{
+    margin-left: 10px;
+}
+
+.movie-card > img {
+    height: 200px;
+}
